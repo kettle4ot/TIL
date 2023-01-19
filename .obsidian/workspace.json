@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "d2cc5e306b9f510b",
+    "type": "split",
+    "children": [
+      {
+        "id": "490eaba3885f3d5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8611e2bfd662e60f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS note_OS/1. Introduction to Operating Systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fde06cd7876c9dbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "19e50594da3d9500",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea9a64a18f014f66",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7a2b5d02a8155d2e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4c3bbd1c0a704310",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "521ea4eac335dfd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d984a05b250fa1ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9847fe16164ad554",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CS note_OS/1. Introduction to Operating Systems.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fb639425b182eb9a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CS note_OS/1. Introduction to Operating Systems.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "52b3e0d513d593dc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e183b9fd71709e5c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CS note_OS/1. Introduction to Operating Systems.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "8611e2bfd662e60f",
+  "lastOpenFiles": [
+    "CS note_OS/1. Introduction to Operating Systems/Pasted image 20230119191305.png",
+    "CS note_OS/1. Introduction to Operating Systems.md"
+  ]
+}
